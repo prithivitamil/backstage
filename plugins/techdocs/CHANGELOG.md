@@ -1,5 +1,15 @@
 # @backstage/plugin-techdocs
 
+## 1.6.3-next.1
+
+### Patch Changes
+
+- 2f660eb573cc: Fix SearchBar styles & update StoryBook stories for custom styles for `notchedOutline` class.
+- Updated dependencies
+  - @backstage/plugin-search-react@1.6.1-next.1
+  - @backstage/plugin-catalog-react@1.7.0-next.1
+  - @backstage/integration-react@1.1.14-next.0
+
 ## 1.6.3-next.0
 
 ### Patch Changes

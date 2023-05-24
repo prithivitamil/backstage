@@ -1,5 +1,13 @@
 # @backstage/plugin-cicd-statistics-module-gitlab
 
+## 0.1.15-next.1
+
+### Patch Changes
+
+- 50c4457119ec: Fixed publish configuration.
+- Updated dependencies
+  - @backstage/plugin-cicd-statistics@0.1.21-next.1
+
 ## 0.1.15-next.0
 
 ### Patch Changes

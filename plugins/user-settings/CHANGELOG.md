@@ -1,5 +1,13 @@
 # @backstage/plugin-user-settings
 
+## 0.7.4-next.1
+
+### Patch Changes
+
+- 5362a7c58eaa: Improved the user experience of the feature flags list. It now sorts the enabled flags to the top of the list to increase the visibilities of the toggled flags.
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.7.0-next.1
+
 ## 0.7.4-next.0
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend-module-gitlab
 
+## 0.2.1-next.1
+
+### Patch Changes
+
+- 50c4457119ec: Fixed publish configuration.
+
 ## 0.2.1-next.0
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # example-backend
 
+## 0.2.84-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-devtools-backend@0.1.1-next.1
+  - @backstage/plugin-search-backend-module-pg@0.5.7-next.1
+  - example-app@0.2.84-next.1
+
 ## 0.2.84-next.0
 
 ### Patch Changes

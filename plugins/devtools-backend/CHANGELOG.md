@@ -1,5 +1,13 @@
 # @backstage/plugin-devtools-backend
 
+## 0.1.1-next.1
+
+### Patch Changes
+
+- c312192e61dd: Expose permissions through the metadata endpoint.
+- Updated dependencies
+  - @backstage/plugin-devtools-common@0.1.1-next.0
+
 ## 0.1.1-next.0
 
 ### Patch Changes
